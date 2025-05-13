@@ -1,0 +1,9 @@
+{
+  "name": "drop",
+  "module": "index.ts",
+  "type": "module",
+  "private": false,
+  "workspaces": [
+    "packages/*"
+  ]
+}
